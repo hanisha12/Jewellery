@@ -1,0 +1,315 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.carousel-inner img {
+     /* Make the image fully responsive */
+    width: 100%;
+    height: 500px;
+  }
+  .navbar{background-color: #42464a66!important; width: 100%;padding: 0px;}
+  .navbar a, .navbar span{color: white;}
+  .navbar-brand img{width: 64%; background-color:#ffd800;}
+  .main-text{position: absolute; top: 144px;left: 84px;}
+  .main-text h1, .main-text h2, .main-text h3, .main-text button{text-align: initial !important; margin: -20px 0;}
+  .main-text button{margin-top: 35px !important;}
+  .main-text h1{font-weight: bold;font-size: 50px;color: #fff; font-size: 84px;}
+  .main-text h3{font-weight: 100; color: #fff; font-size: 40px;}
+  .main-text h2{font-weight: 200; color: #ffd800; font-size: 52px;}
+  .main-text .btn{
+    background-color: #fff;
+    border-color: #FFF;
+    margin-right: 15px;
+    margin-top: 10px;
+    border-radius: 40px;
+    margin-left: -270px;
+    padding: 3px 23px;
+    font-weight: 700;
+    font-size: smaller;
+  }
+  .card-img{
+    position: absolute;
+    left: -70px;
+    top: -21px;
+  }
+  .card-img img{position: absolute;}
+  .card-img .card-title, .card-img .card-text{position: relative;}
+  .sec{text-align: center; padding: 40px 0;}
+  .sec p{
+    font-size: 16px;}
+  .sec h2{
+    font-size: 35px;
+    font-weight: 600;
+    padding-top: 18px;
+  }
+  .card .txt h5{font-size: 15px;}
+  .card .txt p{font-size: 12px; color: #ffd800; font-weight: bold;}
+  .btn-card{
+    background-color: #ffd800;
+    border-color: #ffd800;
+    margin-top: 10px;
+    border-radius: 40px;
+    padding: 3px 23px;
+    font-weight: 700;
+    font-size: smaller;
+  }
+  .sec4{position: relative;}
+  .sec4 h3{font-size: 35px !important;font-weight: lighter;margin: -14px 0 !important;}
+  .sec4 h1{font-size: 52px !important; font-weight: bold; margin-bottom: 0px !important;}
+  .sec4 h2{font-size: 35px !important; font-weight: bold;}
+  .sec4 h4{margin: 10px 0 !important; font-weight: 300;}
+  .sec4 .btn{margin-left: 0px;}
+  .text-img{position: absolute;top: 210px;text-align: initial !important; margin: 0 100px;}
+  .text-img h3{color: #ffd800;margin: -10px 0; font-size: 28px;} 
+  .text-img h1{color: #fff; margin: -10px 0;font-size: 45px;}
+  .text-img h2{color: #ffd800;font-size: 28px;}
+  .text-img h4{color: white; margin: -10px 0;}
+  .border-0{ margin: 20px 0;}
+  .overlay h4{color: #ffd800; margin-bottom: -2px; font-weight: bold;}
+  .overlay p{color: #fff;}
+  .overlay{top: 204px; background-color: #00000059;}
+  .overlay .btn-card{margin-top: -20px !important; margin-left: 20px !important;}
+  .ht{height: 100%;}
+  .opa{position: relative;}
+  /* .opa img{} */
+  .opa .card-img-overlay{top:65px !important;}
+  #img{    
+    position: absolute;
+    top: 287px;
+    right: 456px;
+  }
+  footer a{ color: #fff;}
+  footer .btm{margin-bottom: 0px;}
+  a:hover{color:#ffd800; text-decoration: none;}
+  footer .mb-4{ margin-top: 8%;}
+  i:hover{color:#ffd800; text-decoration: none;}
+   .form-control {
+    margin-top: 10px;
+    border-radius: 50px 0 0 50px !important;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+  }
+
+   .searchbtn{
+    padding: 0px 10px;
+    margin-top: 10px;
+    color: black;
+    background: yellow;
+    font-weight: 500;
+    border: 3px solid yellow;
+      border-left: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      min-height:38px;
+      height: auto;
+   border-radius: 0 50px 50px 0 !important;
+  }
+ footer .yellow{
+    background-color: #ffd800;
+    border: #ffd800;
+    border-radius: 10px;
+    margin-top:40px;
+    padding: 10px;
+    position: absolute;
+    top: -73px;
+    left: 96px;
+}
+nav .icn{
+    margin-top: 10px;
+    /* font-size: 30px; */
+    color: #fff;
+    /* padding: 5px; */
+    background-color: #ffd800;
+}
+nav .searchbtn{
+  background: #ffd800 !important;
+  border: 3px solid #ffd800 !important;
+}
+footer .fa{ padding: 0 5px;}
+nav .bskt{
+  position: absolute;
+  padding: 0px 10px;
+  margin-top: 10px;
+  color: black;
+  background: #ffd800 !important;
+  border: 3px solid #ffd800 !important;
+  font-weight: 500;
+  border-right: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  min-height:38px;
+  height: auto;
+  border-radius: 50px 0 0 50px !important;
+}
+nav .input-group{
+  position: relative;
+}
+li .blk{color: black !important;}
+.card-deck .card{margin-bottom: 20px;}
+.mrg .card-title{
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 0px !important;
+}
+.mrg p{font-weight: 500;}
+.sec5 .card-title{font-size: 20px;}
+.sec5 .card-text{font-size: 16px;}
+.sec5 .fa{
+    font-size: 25px;
+    background-color: #ffd800;
+    padding: 20px;
+}
+
+.star .hvr{
+  position: absolute;
+  top: 15px;
+  /* left: 65px; */
+  display: none;
+}
+.star .hvr .checked {
+  color: orange;
+}
+.star:hover .hvr{
+  display: block;
+}
+.star:hover .st{background-color: #deb774;border-color:#deb774;margin-top: 10px;}
+.border{
+  width: 66px;
+  height: 65px;
+  position: absolute;
+  top: 10px;
+  left: 23px;
+  border: 3px solid #deb774 !important;
+  background-clip: border-box;}
+
+  .card-inner{text-align: center;}
+  .navbar-brand {
+    padding-top: 0px;
+    padding-bottom: 0px;}
+    .carousel-control-prev, .carousel-control-next  {
+      /* background-color: #55555bd9; */
+      width: 3%;
+      opacity: 1;
+  }
+  .padd{padding: 0px !important;}
+  #myCollapsible{list-style-type: none;}
+  /* .carousel-control.right .glyphicon {
+      right: 0;
+      margin-right: 0;
+  } */
+
+  @media screen and (max-width: 575px) {
+    footer .yellow {
+    padding: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;}
+    .text-img {top: 48px;margin: 0px;}
+    #img{right:100px !important;}
+    .card-img {position: relative;top: -27px;}
+    nav .icn {margin-left: 219px !important;}
+    nav .dropdown {margin-left: 130px !important;}
+    .tab{width: 101% !important;}
+    .main-text {top: 104px;left: 35px;}
+    .main-text h3{font-size: 30px;}
+    .main-text h1{font-size: 54px;}
+    .main-text h2{font-size: 35px;}
+    .main-text h1, .main-text h2, .main-text h3, .main-text button {margin: 0px 0;}
+    .main-text .btn{margin: 0px;}
+    #myDIV{bottom: -42px !important;left: 90px;}
+    .text-img{margin: 0px !important;}
+    .text-img h1{font-size: 40px !important; padding: 0px !important;}
+    .text-img h3, .text-img h2{font-size: 20px !important;}
+    .text-img h4{font-size: 20px !important;}
+  
+   .overlay {top: 197px !important;}
+   #myCollapsible{margin-left: 215px;}
+  }
+
+
+@media screen and (max-width: 770px) {
+.tab{width: 106%;left: 65px;}
+.text-img{top: 95px;}
+#img{right: 200px;}
+footer .yellow{
+    position: relative;
+    top: -32px;
+    /* left: -5px; */
+}
+.yellow .fa-envelope{font-size: 45px !important;}
+/* .navbar{width: 86%;} */
+footer .yelph{position: absolute;}
+footer .yelph h3{top: -53px;}
+footer .yelph p{top: -17px;}
+.overlay {top: 166px;}
+#navbarCollapse{
+  position: absolute;
+  top: 2px;
+  left: 273px;
+}
+nav form{display: none;}
+nav .icn {margin-top: -11px;margin-left: 285px;}
+nav .dropdown{margin-left: 207px;}
+/* .card-inner{width: 50%;} */
+.sec5 .fa {padding: 15px; font-size: 20px;}
+.border {width: 49px; height: 49px;}
+.card-title{ margin-bottom: 0px;}
+.sec5 .card-title {font-size: 15px;}
+.card-text{font-size: 13px; margin-top: 0px;}
+#sec5{width:100%;}
+.btn-card{margin-bottom: 10px;}
+.pop{width: 100%;}
+#myCollapsible{margin-left: 285px;}
+.carousel-inner img {height: 390px;}
+}
+
+#myDIV{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: -60px;
+  padding: 5px;
+}
+.sel3, .usr {
+  display: inline-block;
+}
+
+
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+  /* float:right; */
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  /* color: #818181; */
+  display: block;
+}
+
+.sidenav a:hover {
+  color:#ffd800
+}
+
+/* .main { */
+  /* margin-left: 200px;  */
+  /* Same as the width of the sidenav */
+/* }  */
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
